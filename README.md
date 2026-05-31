@@ -76,7 +76,8 @@ Developed an interactive and user-friendly dashboard that streamlined academic a
 
 ## 📸 Dashboard Preview
 
-(Add dashboard screenshots here)
+<img width="504" height="756" alt="Screenshot 2026-05-23 153522" src="https://github.com/user-attachments/assets/5f403bf3-a621-4ebb-ad0b-60507951184b" />
+
 
 
 ---
